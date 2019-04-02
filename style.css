@@ -1,0 +1,106 @@
+body {
+	text-align: center;
+    font-family: helvetica;
+    margin: 0;
+    background-color: #FEF;
+   }
+
+.capa{
+	background-image: url(estudos1.jpg);
+	background-size: cover;
+	color: white;
+	background-position: top;
+}
+
+
+.alinhamento{
+	padding: 40px;
+}
+
+.capa h1{
+	font-size: 1.5em;
+	margin: 0;
+	color: blue;
+    text-shadow: black 2px 2px;
+    
+}
+
+h1:hover{
+	color: grey;
+}
+
+.capa p{
+	font-size: 0.8em;
+	margin: 0;
+	color: blue;
+    text-shadow: black 1px 1px;
+}
+
+
+
+section h2{
+	font-size: 1.0em;
+	margin: 30;
+	color: black;
+     
+}
+
+section p{
+	font-size: 0.8em;
+	margin: 20;
+	color: black;
+}
+
+nav a{
+	display: block;
+	padding: 11px 0px;
+	width: 100px;
+	margin: 5px auto;
+	border: 2px solid;
+	border-radius: 6px;
+	text-decoration: none;
+	color: grey;
+}
+
+nav a:hover{
+	background-color: #181919;
+}
+footer p{
+	font-size: 0.5em;
+	margin: 0;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,204 @@
+body {
+	text-align: center;
+    font-family: helvetica;
+    margin: 0;
+    background-color: #FEF;
+   }
+
+.capa{
+	background-image: url(estudos1.jpg);
+	background-size: cover;
+	color: white;
+	background-position: top;
+}
+
+
+.alinhamento{
+	padding: 40px;
+}
+
+.capa h1{
+	font-size: 1.5em;
+	margin: 0;
+    color: blue;
+    text-shadow: black 2px 2px;
+}
+
+h1:hover{
+	color: grey;
+}
+
+.capa p{
+	font-size: 0.8em;
+	margin: 20;
+	color: blue;
+    text-shadow: black 1px 1px;
+}
+
+
+#topo a{
+	list-style: none;
+	display: inline;
+	text-align: center;
+	padding: 5px 20px;
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	border: 1px solid;
+	border-radius: 5px;
+	margin: 10;
+	color: grey;
+	
+}
+
+#topo a:hover{
+	background-color: #181919;
+}
+
+section h2{
+	font-size: 1.0em;
+	margin: 30;
+	color: black;
+}
+
+section p{
+	font-size: 0.8em;
+	margin: 20;
+	color: black;
+}
+
+.mapa{
+	width: 80%;
+	height: 80%;
+}
+
+#a h2{
+	font-size: 1.0em;
+	margin: 20;
+	color: black;
+}
+
+#a p{
+	font-size: 0.8em;
+	margin: 10;
+	color: black;
+}
+
+#b h2{
+	font-size: 1.0em;
+	margin: 20;
+	color: black;
+}
+
+#b p{
+	font-size: 0.8em;
+	margin: 10;
+	color: black;
+}
+
+#c h2{
+	font-size: 1.0em;
+	margin: 20;
+	color: black;
+}
+
+#c p{
+	font-size: 0.8em;
+	margin: 10;
+	color: black;
+}
+
+#d h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#d p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#e h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#e p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#f h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#f p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#g h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#g p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#h h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#h p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#i h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+
+#i p{
+font-size: 0.8em;
+	margin: 10;
+	color: black;	
+}
+
+#j h2{
+font-size: 1.0em;
+	margin: 20;
+	color: black;	
+}
+nav a{
+	display: block;
+	padding: 11px 0px;
+	width: 100px;
+	margin: 5px auto;
+	border: 2px solid;
+	border-radius: 6px;
+	text-decoration: none;
+	color: grey;
+}
+footer p{
+	font-size: 0.5em;
+	margin: 0;
+	color: black;
+}
+
+
